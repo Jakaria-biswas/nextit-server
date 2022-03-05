@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "title": "Computer Office Application",
+        "img": "https://i.ibb.co/0rbx8yc/Office-applications.png",
+        "createBy": "Created by nextIt",
+        "duration": "6 Months",
+        "price": "5000",
+        "item1": "Overview of Computer and Operating System",
+        "item2": "Word processing including Typing - MS Word",
+        "item3": "Spread sheet Analysis MS - MS Excel ",
+        "item4": "Presentation Design and Delivery MS - PowerPoint",
+        "item5": "Database Management  MS - Access",
+        "item6": "Email and Internet using ",
+        "item7": "Google G-site"
+    },
+    {
+        "id": 2,
+        "title": "Graphic Design and Multimedia",
+        "img": "https://i.ibb.co/WHfgHxr/graphice-design.png",
+        "createBy": "Created by nextIt",
+        "duration": "6 Months",
+        "price": "5000",
+        "item1": "Fundamentals of Graphic Design",
+        "item2": "Adobe Photo Shop",
+        "item3": "Adobe Illustrator ",
+        "item4": "Corel Draw",
+        "item5": "Internet, Email & Outsourcing"
+    },
+    {
+        "id": 3,
+        "title": "Hardware and Networking",
+        "img": "https://i.ibb.co/MPqfHJn/hardware.jpg",
+        "createBy": "Created by nextIt",
+        "duration": "6 Months",
+        "price": "5000",
+        "item1": "Identity the different units of a Computer",
+        "item2": "Assemble & Deassemble Computer Hardware",
+        "item3": "BIOS Setting",
+        "item4": "Windows Installation",
+        "item5": "Driver software Installation",
+        "item6": "Software Installation",
+        "item7": "Trable Shooting",
+        "item8": "Networking and Internet"
+    },
+    {
+        "id": 4,
+        "title": "Web design and Development",
+        "img": "https://i.ibb.co/2nw8q19/web-design.png",
+        "createBy": "Created by nextIt",
+        "duration": "6 Months",
+        "price": "5000",
+        "item1": "HTML",
+        "item2": "CSS",
+        "item3": "JavaScript",
+        "item4": "Bootstrap",
+        "item5": "Responsive Web design",
+        "item6": "PSD to HTML"
+    }
+]
