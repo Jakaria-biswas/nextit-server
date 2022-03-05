@@ -72,7 +72,7 @@ client.connect(err => {
     // get contact message information 
 
     app.get('/getContactData', (req, res) => {
-            
+            3
         contactData.find({})
         .toArray((error, documents) => {
                res.send(documents)
