@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 app.use(cors());
 
 
-
+const port = 3400;
 const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.me6u3.mongodb.net/${process.env.DB_NAME}?retryWrites=true&w=majority`
 // const uri = 'mongodb://127.0.0.1:27017/';
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
@@ -244,4 +244,4 @@ app.get("/", (req, res) => {
 })
 
 
-app.listen(3400, console.log("server start"))
+app.listen(process.env.PORT || port)
